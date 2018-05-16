@@ -8,4 +8,4 @@ branches:
 jobs:
   - stage: test
     script:
-		- pytest
+        - pytest
